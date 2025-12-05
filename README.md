@@ -1,5 +1,5 @@
 # Reproducing "Bag of Tricks for Efficient Text Classification" Using fastText
-
+(https://file%2B.vscode-resource.vscode-cdn.net/Users/levira/Downloads/time_comparison.png?version%3D1764966000933)
 **Author:** Levi Ramirez  
 **Course:** CS 436/536 - Machine Learning  
 **University:** Binghamton University  
